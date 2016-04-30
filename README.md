@@ -1,3 +1,3 @@
-converter
-profile manager
+converter,
+profile manager,
 sensor example
