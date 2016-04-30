@@ -1,3 +1,3 @@
-#converter
-#profile manager
-#sensor example
+converter
+profile manager
+sensor example
